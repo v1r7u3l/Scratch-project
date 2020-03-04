@@ -1,4 +1,7 @@
 # Scratch-project
+
+![Screenshot a jatekbol](https://i.imgur.com/gImhUcp.png)
+
 Labda elkapos jatek a macskaval.
 
 Iranyitas: bal-jobb nyil billentyuk
